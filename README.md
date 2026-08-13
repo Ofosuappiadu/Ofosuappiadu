@@ -1,41 +1,39 @@
-<h1 align="center">Appiadu</h1>
-<p align="center">Full-Stack Developer in training — building backend-first, learning frontend</p>
+<h1 align="center">Hi 👋, I'm Appiadu</h1>
+<h3 align="center">Backend-Focused Full-Stack Developer | Final-Year Software Engineering Student 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ofosuappiadu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ofosuappiadu&label=Profile%20views&color=0e75b6&style=flat" alt="ofosuappiadu" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofosuappiadu" alt="ofosuappiadu" /></a> </p>
 
-### About
-
-- 🔭 Currently building a **public infrastructure monitoring & reporting platform** (final-year project) and co-developing a **subscription tracker & finance manager**
-- 🌱 Learning new tools and languages to grow as a full-stack developer
-- 💬 Ask me about **Java** and **C**
+- 🔭 Currently building **FaithConnect**, a Church Management System designed to simplify administrative processes and strengthen member engagement 🙌
+- 🌱 Currently deepening my backend skills while rounding out my frontend fundamentals
+- 💬 Ask me about **Java and C**
 - 📫 Reach me at **kwakuappiadu16@gmail.com**
+- ⚡ Fun fact: my keyboard's most worn-out key is the semicolon
 
-<br>
-
-### Stack
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C-0e75b6?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-0e75b6?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0e75b6?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-0e75b6?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-0e75b6?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0e75b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<br>
-
-### GitHub Stats
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofosuappiadu&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=808080" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofosuappiadu&layout=compact&hide_border=true&title_color=0e75b6&text_color=808080" alt="Top languages" height="165" />
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ofosuappiadu&background=ffffff00&border=0e75b6&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=808080&currStreakNum=0e75b6&sideNums=0e75b6&hide_border=true" alt="GitHub streak" />
+<h3 align="left">Support:</h3>
+<p>
+<a href="https://www.buymeacoffee.com/ofosuappiadu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ofosuappiadu" /></a>
+<a href="https://ko-fi.com/ofosuappiadu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ofosuappiadu" /></a>
 </p>
+<br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofosuappiadu&show_icons=true&locale=en&layout=compact" alt="ofosuappiadu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofosuappiadu&show_icons=true&locale=en" alt="ofosuappiadu" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ofosuappiadu&background=ffffff00&border=0e75b6&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=808080&currStreakNum=0e75b6&sideNums=0e75b6" alt="ofosuappiadu" /></p>
