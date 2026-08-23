@@ -34,7 +34,7 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofosuappiadu&show_icons=true&locale=en&layout=compact" alt="ofosuappiadu" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofosuappiadu&background=ffffff00&border=0e75b6&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=808080&currStreakNum=0e75b6&sideNums=0e75b6" alt="ofosuappiadu" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofosuappiadu&show_icons=true&locale=en" alt="ofosuappiadu" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ofosuappiadu&background=ffffff00&border=0e75b6&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=808080&currStreakNum=0e75b6&sideNums=0e75b6" alt="ofosuappiadu" /></p>
